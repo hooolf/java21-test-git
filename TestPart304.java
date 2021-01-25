@@ -13,6 +13,9 @@ public class TestPart304 {
 		System.out.println("输入第二个数");
 		int second = scanner.nextInt();
 		System.out.println("输入第三个数");
+
+
+
 		int third = scanner.nextInt();
 		
 		int result =0;
